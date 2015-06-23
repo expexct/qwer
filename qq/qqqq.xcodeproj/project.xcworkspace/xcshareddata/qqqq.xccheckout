@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09DA4033-4AF0-4509-8CAC-AAD55E83EBD6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>qqqq</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>223636179B76751A6B46F70DC133E711ACC4A7A1</key>
+		<string>https://github.com/expexct/TT1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>qqqq.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>223636179B76751A6B46F70DC133E711ACC4A7A1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/expexct/TT1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>223636179B76751A6B46F70DC133E711ACC4A7A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>223636179B76751A6B46F70DC133E711ACC4A7A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TT1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
